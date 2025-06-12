@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DM2: Echoes</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script>
+    function goToChapter(select) {
+      const chapter = select.value;
+      if (chapter) window.location.href = chapter;
+    }
+  </script>
+</head>
+<body>
+  <header>
+    <h1>The Legends of Link: A Dark Mask</h1>
+    <nav>
+      <a href="dm1.html">← Previous</a>
+      <a href="dm2.html">DM2</a>
+      <a href="dm3.html">Next →</a>
+      <select onchange="goToChapter(this)">
+        <option value="">Select Chapter</option>
+        <option value="dm1.html">DM1</option>
+        <option value="dm2.html" selected>DM2</option>
+        <option value="dm3.html">DM3</option>
+      </select>
+    </nav>
+  </header>
+  <main>
+    <h2>Chapter 2: Echoes in the Halls</h2>
+    <p>Aliquam erat volutpat. Pellentesque laoreet ex vel ligula tempus, nec lacinia orci fermentum.</p>
+    <p>Ut facilisis, velit nec suscipit ultrices, nisl ligula hendrerit nunc, in convallis elit erat nec erat.</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Lily & Co. | <a href="dm1.html">Back to Start</a></p>
+  </footer>
+</body>
+</html>
