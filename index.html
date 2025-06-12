@@ -1,3 +1,4 @@
+<!-- index.html (was landing.html) -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +12,7 @@
     <h1>The Legends of Link: A Dark Mask</h1>
     <p>A fanfiction story by Lily</p>
     <nav>
-      <a href="index.html">📖 Start Reading</a>
+      <a href="chapter1.html">📖 Start Reading</a>
       <a href="gallery.html">🖼 View Gallery</a>
     </nav>
   </header>
@@ -27,7 +28,50 @@
     </section>
   </main>
   <footer>
-    <p>&copy; 2025 Lily & Co. | <a href="index.html">Enter the story</a></p>
+    <p>&copy; 2025 Lily & Co. | <a href="chapter1.html">Enter the story</a></p>
+  </footer>
+</body>
+</html>
+
+<!-- gallery.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gallery - The Legends of Link: A Dark Mask</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1em;
+      padding: 2em;
+    }
+    .gallery img {
+      width: 100%;
+      border-radius: 8px;
+      border: 2px solid #444;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Gallery</h1>
+    <nav>
+      <a href="index.html">← Back to Home</a>
+      <a href="chapter1.html">📖 Read Story</a>
+    </nav>
+  </header>
+  <main>
+    <section class="gallery">
+      <img src="assets/sample1.jpg" alt="Concept art 1">
+      <img src="assets/sample2.jpg" alt="Concept art 2">
+      <img src="assets/sample3.jpg" alt="Character sketch">
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Lily & Co. | <a href="index.html">Home</a></p>
   </footer>
 </body>
 </html>
