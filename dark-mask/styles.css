@@ -6,6 +6,9 @@ body {
   color: #f0f0f0;
   line-height: 1.6;
 }
+body a {
+  text-align: center;
+}
 head {
   text-align: center;
 }
