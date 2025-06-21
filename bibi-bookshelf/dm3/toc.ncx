@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta name="dtb:uid" content="2c949ed3-71ec-483e-8281-3bafc62f97e6"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (8.4.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Copy of A Dark Mask</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="usJfrcFWms6ZUDsaNdY42g6" playOrder="1" class="chapter">
+      <navLabel>
+        <text>Copy of A Dark Mask</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_000.xhtml"/>
+    </navPoint>
+    <navPoint id="uuDq5Cb277NBUqwcETnSHrE" playOrder="2" class="chapter">
+      <navLabel>
+        <text>Chapter One: Forest of Ages</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_000.xhtml#h.x8emacv7w8l8"/>
+    </navPoint>
+    <navPoint id="uZ5Ggq96WIiu7O4rMVscBNE" playOrder="3" class="chapter">
+      <navLabel>
+        <text>Chapter Two</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="uscGRjMH28AXNGPQIX97AIH" playOrder="4" class="chapter">
+      <navLabel>
+        <text>A Terrible Fate</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_001.xhtml#h.aue8rvnbepfo"/>
+    </navPoint>
+    <navPoint id="uSmT2EnnlYiVKuCsiHlxaFF" playOrder="5" class="chapter">
+      <navLabel>
+        <text>Chapter Three</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="uz9ue4pSrv6JOwiSiUHHcD2" playOrder="6" class="chapter">
+      <navLabel>
+        <text>Brand New World</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_002.xhtml#h.uw4sax9zp6er"/>
+    </navPoint>
+    <navPoint id="usj4xfcb7qcPiUIwkZ4v4r5" playOrder="7" class="chapter">
+      <navLabel>
+        <text>Chapter Four</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="uslP8YP4REo86XWLeqi8oDG" playOrder="8" class="chapter">
+      <navLabel>
+        <text>A Strange Ally</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_003.xhtml#h.wkgc33mmn72r"/>
+    </navPoint>
+    <navPoint id="u3iOci73VkPQGfsd7zMlXa2" playOrder="9" class="chapter">
+      <navLabel>
+        <text>Chapter Five</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_004.xhtml"/>
+    </navPoint>
+    <navPoint id="uzKFDXJuCDjXUhypwWnRu9H" playOrder="10" class="chapter">
+      <navLabel>
+        <text>The Great Fairy</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_004.xhtml#h.rfoeg5219k6j"/>
+    </navPoint>
+    <navPoint id="ub83YecAm6hdqzyZcyAZJG2" playOrder="11" class="chapter">
+      <navLabel>
+        <text>Chapter Six</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_005.xhtml"/>
+    </navPoint>
+    <navPoint id="uYFFBTGmfFEHmrkWX5K95YB" playOrder="12" class="chapter">
+      <navLabel>
+        <text>Twisted Misfortune</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_005.xhtml#h.mvddb2a19n1q"/>
+    </navPoint>
+    <navPoint id="uo7xgPiHJ3qdCadMw7b2I5B" playOrder="13" class="chapter">
+      <navLabel>
+        <text>Chapter Seven</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_006.xhtml"/>
+    </navPoint>
+    <navPoint id="uZokHqXBXbMm82LoQyxc45G" playOrder="14" class="chapter">
+      <navLabel>
+        <text>Unexpected Complications</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_006.xhtml#h.u2cr2j3ehmrk"/>
+    </navPoint>
+    <navPoint id="uS4KsEecyLZKDtjXUDuHTSB" playOrder="15" class="chapter">
+      <navLabel>
+        <text>Chapter Eight</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_007.xhtml"/>
+    </navPoint>
+    <navPoint id="uajd2e7z5XYSxi5sMhLNTr3" playOrder="16" class="chapter">
+      <navLabel>
+        <text>The Stockpot Inn</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_007.xhtml#h.vp0abfexglbo"/>
+    </navPoint>
+    <navPoint id="uLAhbjgXn9SGpNWDPfSvIq5" playOrder="17" class="chapter">
+      <navLabel>
+        <text>Chapter Nine</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_008.xhtml"/>
+    </navPoint>
+    <navPoint id="u8RSkAkqlBJxFNJ2Fcdeml8" playOrder="18" class="chapter">
+      <navLabel>
+        <text>Dawn of the Final Day</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_008.xhtml#h.66e19cd6ipj"/>
+    </navPoint>
+    <navPoint id="ufhqms9gcYJC4Goo2NKKTy5" playOrder="19" class="chapter">
+      <navLabel>
+        <text>Chapter Ten</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_009.xhtml"/>
+    </navPoint>
+    <navPoint id="uZlCD2YZGJpLEdkFrHf68l9" playOrder="20" class="chapter">
+      <navLabel>
+        <text>By the Moon and Stars</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_009.xhtml#h.bwxbimb0jyj1"/>
+    </navPoint>
+    <navPoint id="uGK6UdUGpUEQdXydzcakpRH" playOrder="21" class="chapter">
+      <navLabel>
+        <text>Chapter Eleven</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_010.xhtml"/>
+    </navPoint>
+    <navPoint id="ubC6CHJ6UmRcEjyyiCs3nE4" playOrder="22" class="chapter">
+      <navLabel>
+        <text>Countdown</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_010.xhtml#h.pfs8rhu5mrim"/>
+    </navPoint>
+    <navPoint id="uTKK8Ll5NAcJjLPLRtZOtKH" playOrder="23" class="chapter">
+      <navLabel>
+        <text>Chapter Twelve</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_010.xhtml#h.z7hywivc30ye"/>
+    </navPoint>
+    <navPoint id="uopcGlLYex2bMu6hs6cQar9" playOrder="24" class="chapter">
+      <navLabel>
+        <text>End of the Beginning</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_010.xhtml#h.ifiklb9cro1x"/>
+    </navPoint>
+    <navPoint id="u5FKFagRepCaGQjrk89Xi8E" playOrder="25" class="chapter">
+      <navLabel>
+        <text>Chapter Thirteen</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_011.xhtml"/>
+    </navPoint>
+    <navPoint id="uomdUC2X27tC4BsjRbmyqHF" playOrder="26" class="chapter">
+      <navLabel>
+        <text>Ancient Deadlands</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_011.xhtml#h.m27tymgcmbb9"/>
+    </navPoint>
+    <navPoint id="uUsTR2P3jhmkOCvlwC54lq2" playOrder="27" class="chapter">
+      <navLabel>
+        <text>Chapter Fourteen</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_012.xhtml"/>
+    </navPoint>
+    <navPoint id="u2FWqLsGhL8T6LKujeaBTo3" playOrder="28" class="chapter">
+      <navLabel>
+        <text>Dawn of the First Day</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_012.xhtml#h.keijay6a5ln9"/>
+    </navPoint>
+    <navPoint id="u9Dkd2yFR6wRAXFqazXd4i8" playOrder="29" class="chapter">
+      <navLabel>
+        <text>Chapter Fifteen</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_013.xhtml"/>
+    </navPoint>
+    <navPoint id="uRIHbskZkfvKCjMRIr8UQh4" playOrder="30" class="chapter">
+      <navLabel>
+        <text>Troublesome Town</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_013.xhtml#h.asuqgiqvp53q"/>
+    </navPoint>
+    <navPoint id="uPzJeTGewBvdKRthAfAEHd6" playOrder="31" class="chapter">
+      <navLabel>
+        <text>Chapter Sixteen</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_014.xhtml"/>
+    </navPoint>
+    <navPoint id="ubf2t4y3AwQr5aJLmgO8Bc9" playOrder="32" class="chapter">
+      <navLabel>
+        <text>Termina Field</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_014.xhtml#h.3u5lobuqly"/>
+    </navPoint>
+    <navPoint id="uMlRc3qqWqQQQVDeurdbZR8" playOrder="33" class="chapter">
+      <navLabel>
+        <text>The blazing mid afternoon sun still shone high in the blue skies when we reached the old, eroded southern gate. The guard had discarded his visor, his sweat-slicked face weary beneath the sunlit blaze. He slouched against the chalky white limestone wall, brow furrowed as he wiped at the heat with little urgency. Around him, the southern commons simmered in slow decay...unkempt locals sprawled in the patchwork shade cast by leaning shanty roofs, waving scraps of paper or warped tin lids to stir the still air. Barefoot children darted between crumbling alleyways, their laughter sharp against the dusty silence, vanishing like mirages among weed-choked cracks in the pavement.</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_014.xhtml#h.kr1i20nkskim"/>
+    </navPoint>
+    <navPoint id="utNJGCY4QryK6c3iex9UuU3" playOrder="34" class="chapter">
+      <navLabel>
+        <text>Chapter Seventeen</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_015.xhtml"/>
+    </navPoint>
+    <navPoint id="upFZuih7NHcovGpCEeijhc3" playOrder="35" class="chapter">
+      <navLabel>
+        <text>The Southern Swamp</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_015.xhtml#h.abzqj2tblm9h"/>
+    </navPoint>
+    <navPoint id="uZSFlOCcgY2ZPgJveuNEYEF" playOrder="36" class="chapter">
+      <navLabel>
+        <text>Chapter Eighteen</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_016.xhtml"/>
+    </navPoint>
+    <navPoint id="uZ6nSKTGJaGlbz4ARyzOiKE" playOrder="37" class="chapter">
+      <navLabel>
+        <text>Ambush</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_016.xhtml#h.j6r7epndz5ff"/>
+    </navPoint>
+    <navPoint id="uRatdWdIk9I5eiTIXA8ylvB" playOrder="38" class="chapter">
+      <navLabel>
+        <text>Chapter Nineteen</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_016.xhtml#h.r7567h82xqck"/>
+    </navPoint>
+    <navPoint id="u46LKFkogkhfpLzLN8dr8n9" playOrder="39" class="chapter">
+      <navLabel>
+        <text>Toil and Trouble</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_016.xhtml#h.hilwg54efcqi"/>
+    </navPoint>
+    <navPoint id="uusp6HERVCSsQPDgdI5z5H5" playOrder="40" class="chapter">
+      <navLabel>
+        <text>Chapter Twenty</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_017.xhtml"/>
+    </navPoint>
+    <navPoint id="uNiqFYldXPxDC69v5cTRIaC" playOrder="41" class="chapter">
+      <navLabel>
+        <text>Monkey Business</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_017.xhtml#h.bx01g8rnu7xb"/>
+    </navPoint>
+    <navPoint id="uttNWDzNztvyIyMIiFPXSG2" playOrder="42" class="chapter">
+      <navLabel>
+        <text>Chapter Twenty One</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_018.xhtml"/>
+    </navPoint>
+    <navPoint id="uH3AOlS8MfyJzw7Td74l9n4" playOrder="43" class="chapter">
+      <navLabel>
+        <text>Into the Corruption</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_018.xhtml#h.s7r5t9oyspfz"/>
+    </navPoint>
+    <navPoint id="ujG4HtbSXw8IlbtRut4sei9" playOrder="44" class="chapter">
+      <navLabel>
+        <text>Chapter Twenty-Two</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_019.xhtml"/>
+    </navPoint>
+    <navPoint id="upL89I56v7ynmlilHUt4Gw7" playOrder="45" class="chapter">
+      <navLabel>
+        <text>Realm of Shadows</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_019.xhtml#h.s9qsw09g77ag"/>
+    </navPoint>
+    <navPoint id="uHJQEteTOtuVxwjsd348FZA" playOrder="46" class="chapter">
+      <navLabel>
+        <text>Chapter Twenty-Three</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_020.xhtml"/>
+    </navPoint>
+    <navPoint id="uNyG4CJlKKRtvHHEY8M2jt3" playOrder="47" class="chapter">
+      <navLabel>
+        <text>Palace of Fury</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_020.xhtml#h.738gqbd03dgk"/>
+    </navPoint>
+    <navPoint id="uuDrfBQB9iGBoQ2XMfKtpSD" playOrder="48" class="chapter">
+      <navLabel>
+        <text>Chapter Twenty-Four</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_021.xhtml"/>
+    </navPoint>
+    <navPoint id="ufNCFiEqLiEfeJmyb6F82wC" playOrder="49" class="chapter">
+      <navLabel>
+        <text>Covert Expedition</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_021.xhtml#h.688vyty4skhy"/>
+    </navPoint>
+    <navPoint id="uoz6yI5SZBrPte9oFqOBFwF" playOrder="50" class="chapter">
+      <navLabel>
+        <text>Chapter Twenty-Five</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_022.xhtml"/>
+    </navPoint>
+    <navPoint id="uHTyQyoABByIuicpzaLBuh2" playOrder="51" class="chapter">
+      <navLabel>
+        <text>Woodfall</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_022.xhtml#h.k015k4wn6qsl"/>
+    </navPoint>
+    <navPoint id="uatIpRjDzBooUlwE98i7YrE" playOrder="52" class="chapter">
+      <navLabel>
+        <text>Chapter Twenty-Six</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_023.xhtml"/>
+    </navPoint>
+    <navPoint id="uAsEsVkbANh5HZQPD2yXG25" playOrder="53" class="chapter">
+      <navLabel>
+        <text>The Blighted Temple</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_023.xhtml#h.kixz7sbbehy6"/>
+    </navPoint>
+    <navPoint id="uLrC4eLwUMeXtITlWeFEIV8" playOrder="54" class="chapter">
+      <navLabel>
+        <text>Chapter Twenty-Seven</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_024.xhtml"/>
+    </navPoint>
+    <navPoint id="uiVexWsBDyAX7QrOh6uEs3G" playOrder="55" class="chapter">
+      <navLabel>
+        <text>Corruption's End</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_024.xhtml#h.1a4m6e4xyawn"/>
+    </navPoint>
+    <navPoint id="uMTsy3Kh5TaKVVau9REtmb5" playOrder="56" class="chapter">
+      <navLabel>
+        <text>Chapter Twenty-Eight</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_025.xhtml"/>
+    </navPoint>
+    <navPoint id="umlIxjxwrUQkdU6cJhZyECA" playOrder="57" class="chapter">
+      <navLabel>
+        <text>Blood Dawn</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_025.xhtml#h.6s8mbvhw0ul9"/>
+    </navPoint>
+    <navPoint id="uQdoerdlzwBypDiEOlrr2LA" playOrder="58" class="chapter">
+      <navLabel>
+        <text>Chapter Twenty-Nine</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_026.xhtml"/>
+    </navPoint>
+    <navPoint id="uxyrUAbHKjfv8bK8IkwvtPE" playOrder="59" class="chapter">
+      <navLabel>
+        <text>Clock Town Corruption</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_026.xhtml#h.s390o625c6y0"/>
+    </navPoint>
+    <navPoint id="uktQhF8lHMC7xRzJkeoXlPG" playOrder="60" class="chapter">
+      <navLabel>
+        <text>Chapter Thirty</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_027.xhtml"/>
+    </navPoint>
+    <navPoint id="uOZNNHSKy4l3BWdhyR9jDkC" playOrder="61" class="chapter">
+      <navLabel>
+        <text>The Wild Side</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_027.xhtml#h.vsd00zsrvv0e"/>
+    </navPoint>
+    <navPoint id="uzBMMMSOqngVNqmkySzqcBG" playOrder="62" class="chapter">
+      <navLabel>
+        <text>Chapter Thirty-One</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_028.xhtml"/>
+    </navPoint>
+    <navPoint id="uRMsPfjEW5LFqJj2gwEyZUG" playOrder="63" class="chapter">
+      <navLabel>
+        <text>Trapped</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_028.xhtml#h.33c1zmd0bkck"/>
+    </navPoint>
+    <navPoint id="uEmKjG8ZuWQtyhstADJv4T6" playOrder="64" class="chapter">
+      <navLabel>
+        <text>Chapter Thirty-Two</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_029.xhtml"/>
+    </navPoint>
+    <navPoint id="uCkJyUemrQZpibma3uqkBp9" playOrder="65" class="chapter">
+      <navLabel>
+        <text>A New Threat</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_029.xhtml#h.d3aonzzfuibb"/>
+    </navPoint>
+    <navPoint id="uPcL6UMxZQZ7QXTW8jjMv24" playOrder="66" class="chapter">
+      <navLabel>
+        <text>Chapter Thirty-Three</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_030.xhtml"/>
+    </navPoint>
+    <navPoint id="uFuI5ymOZssll4ZHDq7m47A" playOrder="67" class="chapter">
+      <navLabel>
+        <text>The Great Escape</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_030.xhtml#h.x1j29027h650"/>
+    </navPoint>
+    <navPoint id="u2Z4yj9ZJwaJiWedIbM3pwF" playOrder="68" class="chapter">
+      <navLabel>
+        <text>Chapter Thirty-Four</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_031.xhtml"/>
+    </navPoint>
+    <navPoint id="uWfOMO38fDH3YK8OXUzqla4" playOrder="69" class="chapter">
+      <navLabel>
+        <text>Deserted</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_031.xhtml#h.kh3zlvstb0k1"/>
+    </navPoint>
+    <navPoint id="uuornYQ5GmnluPJOOjnGTI3" playOrder="70" class="chapter">
+      <navLabel>
+        <text>Chapter Thirty Five</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_032.xhtml"/>
+    </navPoint>
+    <navPoint id="uAJOrj2yRSxXZi3ChyidXy5" playOrder="71" class="chapter">
+      <navLabel>
+        <text>A Rocky Start</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_032.xhtml#h.rn7nublrbp97"/>
+    </navPoint>
+    <navPoint id="ufcAMcZRgspt29jMMolLBlC" playOrder="72" class="chapter">
+      <navLabel>
+        <text>Chapter Thirty-Six</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_033.xhtml"/>
+    </navPoint>
+    <navPoint id="uCfcDfpHpAFmjmKeD73JsfF" playOrder="73" class="chapter">
+      <navLabel>
+        <text>The Stone Warrior</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_033.xhtml#h.4log3qct80fq"/>
+    </navPoint>
+    <navPoint id="uDWfYEmUm4wjnpo3W9M66fA" playOrder="74" class="chapter">
+      <navLabel>
+        <text>Chapter 37</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_033.xhtml#h.e5m781ln296r"/>
+    </navPoint>
+    <navPoint id="u4cIOJBvw2TRrJ3z2kpQ74G" playOrder="75" class="chapter">
+      <navLabel>
+        <text>The Mask of the Mountain</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_033.xhtml#h.xb3huuvbsl4h"/>
+    </navPoint>
+    <navPoint id="uSONN9EGJRwkbVUdXuwtRx4" playOrder="76" class="chapter">
+      <navLabel>
+        <text>Chapter 38</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_033.xhtml#h.h25xp3tjw3zd"/>
+    </navPoint>
+    <navPoint id="uVnTu2vKYhXnKuJziKrIEx4" playOrder="77" class="chapter">
+      <navLabel>
+        <text>Footfalls in Frost</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_033.xhtml#h.12kiamk0knp3"/>
+    </navPoint>
+    <navPoint id="uNooKHhesTPpK2ds3WJhnQ5" playOrder="78" class="chapter">
+      <navLabel>
+        <text>Chapter 39</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_033.xhtml#h.se7e2blso77r"/>
+    </navPoint>
+    <navPoint id="uMJVZQY9lpcUjkPGwmn8g25" playOrder="79" class="chapter">
+      <navLabel>
+        <text>The Flame Hollows</text>
+      </navLabel>
+      <content src="GoogleDoc/CopyofADarkMask_split_033.xhtml#h.4di6c8v9l30s"/>
+    </navPoint>
+  </navMap>
+</ncx>
